@@ -60,6 +60,10 @@ nav ul li a:hover{
     color: #ff9466;
 }
 
+nav ul li a.active{
+    color: #ff9466;
+}
+
 main{
     background-color: #1c1c1c;
     height: 600px;
@@ -69,4 +73,20 @@ main{
 footer{
     background-color: #000;
     height: 250px;
+}
+
+table, th, td{
+    border-color: antiquewhite;
+    border-width: 1px;
+    border-style: solid;
+    border-collapse: collapse;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
 }
