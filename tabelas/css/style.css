@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: space-around;
+    background-color: #000;
+    height: 100px;
+}
+
+table, th, td{
+   
+    color: white; 
+   border-color: antiquewhite;
+    border-width: 1px;
+    border-style: solid;
+    border-collapse: collapse;
+    background-color: rgb(72, 4, 78);
+}
